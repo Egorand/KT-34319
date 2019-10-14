@@ -1,0 +1,5 @@
+rootProject.name='KT-34319'
+
+include ':app'
+include ':backend'
+include ':presenters'
